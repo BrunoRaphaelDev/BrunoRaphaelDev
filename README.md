@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=011527&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Seja+bem-vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 # 🖥️ Bruno Raphael
 ## 🚀 Desenvolvedor de Software
@@ -67,5 +67,5 @@ Gosto de enfrentar desafios, aprender novas tecnologias e desenvolver soluções
 
 ⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!**
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer"/>
 

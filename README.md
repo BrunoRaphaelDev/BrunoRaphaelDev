@@ -55,7 +55,8 @@ Gosto de enfrentar desafios, aprender novas tecnologias e desenvolver soluções
 ---
 
 ## 🚀 Atividade no GitHub
-[![lucasriodev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasriosdev&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![BrunoRaphaelDev github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brunorpahael&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 

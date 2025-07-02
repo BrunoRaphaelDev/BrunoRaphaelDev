@@ -47,8 +47,9 @@ Gosto de enfrentar desafios, aprender novas tecnologias e desenvolver soluções
 
 ## 📊 Confira as minhas Estatísticas no GitHub :)
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucasriosdev&show_icons=true&theme=radical">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasriosdev&layout=compact&langs_count=7&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunoRaphaelDev&show_icons=true&theme=radical" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRaphaelDev&layout=compact&langs_count=7&theme=radical" />
+
 </p>
 
 ---

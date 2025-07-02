@@ -62,7 +62,7 @@ Gosto de enfrentar desafios, aprender novas tecnologias e desenvolver soluções
 
 <div align="center">
   <p><b>Contador de Visitantes:</b></p>
-  <p><img align="center" src="https://profile-counter.glitch.me/{kaua-stack}/count.svg" /></p>
+<p><img align="center" src="https://profile-counter.glitch.me/BrunoRaphaelDev/count.svg" /></p>
 </div>
 
 ---

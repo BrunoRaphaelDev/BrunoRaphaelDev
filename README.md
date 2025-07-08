@@ -56,15 +56,6 @@ Gosto de enfrentar desafios, aprender novas tecnologias e desenvolver soluções
 ---
 
 
-### 🎯 Visitantes:
-
-<div align="center">
-  <p><b>Contador de Visitantes:</b></p>
-<p><img align="center" src="https://profile-counter.glitch.me/BrunoRaphaelDev/count.svg" /></p>
-</div>
-
----
-
 ⭐ **Se gostou do meu perfil, não esqueça de deixar uma estrela nos meus repositórios!**
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0088ff&height=120&section=footer"/>
